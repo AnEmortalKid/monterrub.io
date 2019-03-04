@@ -1,0 +1,6 @@
+baseurl = "http://monterrub.io"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = "true"
+title = "Jan Monterrubio"
+theme = "hamburg"
+publishDir = "docs"
