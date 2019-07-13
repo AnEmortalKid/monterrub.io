@@ -5,28 +5,9 @@
     <link>https://monterrub.io/tags/</link>
     <description>Recent content in Tags on Jan Monterrubio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 10 Sep 2018 19:04:46 +0200</lastBuildDate>
     
 	<atom:link href="https://monterrub.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://monterrub.io/tags/about/</link>
-      <pubDate>Mon, 10 Sep 2018 19:04:46 +0200</pubDate>
-      
-      <guid>https://monterrub.io/tags/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Page</title>
-      <link>https://monterrub.io/tags/page/</link>
-      <pubDate>Mon, 10 Sep 2018 19:04:46 +0200</pubDate>
-      
-      <guid>https://monterrub.io/tags/page/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
