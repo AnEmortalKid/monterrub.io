@@ -23,7 +23,7 @@ _September 2014-Current_
 
 ## Proficiency
 
-### Language 
+### Languages
 
 * Java
 * Groovy
