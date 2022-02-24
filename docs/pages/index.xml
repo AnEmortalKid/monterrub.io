@@ -11,7 +11,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://monterrub.io/pages/about/</guid>
-      <description>This site is generated with hugo</description>
+      <description>I’m Jan, I’m a Software Engineer.
+I enjoy tinkering with new things and making random tools.
+I sometimes participate in programming competitions!
+Here&amp;rsquo;s a few samples of some of the tinkering I&amp;rsquo;ve done:
+ containment_32 - a collection of containerized applications/programs that achieve a simple but fun goal.  </description>
     </item>
     
     <item>
@@ -22,8 +26,8 @@
       <guid>https://monterrub.io/pages/resume/</guid>
       <description>PDF Viewable version
 Github Profile
-Professional Experience Cerner Corporation September 2014-Current
- Java-based RPC and ReST services Analyzed and diagnosed memory performance problems using heap analysis tools (Eclipse MAT, Mission Control, JVisualVM) Contributed to a component that dynamically changes SQL based on database metadata (open-source contribution to JSqlParser) Maintained a Jenkins instance and a reusable pipeline library Created a testing cluster with docker-compose for integration testing  Proficiency Languages  Java Groovy Scala Python SQL Javascript dogescript  Technologies  Maven Gradle NPM JUnit / Groovy Spock Openstack Docker Docker-Compose Jenkins  </description>
+Professional Experience Cerner Corporation Senior Software Engineer (Millennium Platform) Sep 2018 – Current
+ Created and maintained a testing cluster with docker-compose for integration testing which included a pre-seeded database, queue-based services, OAuth authentication and ReST services. Designed and implemented a Graph based API backed by Oracle Hierarchical queries Developed a maven plugin to control the lifecycle of a proprietary web based framework within a container Developed a testing harness which used TestContainers to create pre-built databases Created an inventory of Cerner’s internal ReST services and aggregated them using SpringFox-Swagger, including the ability to use the Try-it-out feature of Swagger Doc to send requests to a development cluster  Software Engineer (Millennium Platform) September 2014 - September 2018</description>
     </item>
     
   </channel>
