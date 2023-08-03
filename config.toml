@@ -1,9 +1,9 @@
-baseurl = "https://monterrub.io/"
+baseurl = "https://monterrub.io/jan/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
 title = "Jan Monterrubio"
 theme = "hamburg"
-publishDir = "docs"
+publishDir = "sites/jan"
 
 [menu]
 	[[menu.main]]
